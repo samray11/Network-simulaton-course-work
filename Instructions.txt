@@ -1,0 +1,5 @@
+change script extension to bash
+./sender --mtu [your desired mtu] for bash
+else if in windows 
+javac *.java 
+java -cp . MessageSenderMain --mtu 20 
